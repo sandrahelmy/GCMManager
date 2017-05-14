@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "999833907839",
+    "firebase_url": "https://mygcmproject-167216.firebaseio.com",
+    "project_id": "mygcmproject-167216",
+    "storage_bucket": "mygcmproject-167216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999833907839:android:62be17c7e43f27b1",
+        "android_client_info": {
+          "package_name": "com.example.sandra.gcmmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999833907839-dfl35nu7kajp0m9icaerojevjdncog46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2KA5UR3NNdmnz6eBRcCYgysE9j2mFPLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
